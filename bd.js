@@ -210,11 +210,11 @@ const BD = [
     "friends": [
       {
         "id": 0,
-        "name": "Terry Delacruz"
+        "name": "juan Delacruz"
       },
       {
         "id": 1,
-        "name": "Lynne Salas"
+        "name": "Salas"
       },
       {
         "id": 2,
