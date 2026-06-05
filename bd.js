@@ -143,7 +143,7 @@ const BD = [
     "picture": "http://placehold.it/32x32",
     "age": 21,
     "eyeColor": "green",
-    "name": "Traci Charles",
+    "name": "el parce",
     "gender": "female",
     "company": "ACUSAGE",
     "email": "tracicharles@acusage.com",
